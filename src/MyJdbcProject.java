@@ -6,7 +6,7 @@ public class MyJdbcProject {
     // Database connection details
     static String url = "jdbc:mysql://localhost:3306/jdbce1";
     static String username = "root";
-    static String password = "Bindhu@2208";
+    static String password = "";//MySQL password
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
